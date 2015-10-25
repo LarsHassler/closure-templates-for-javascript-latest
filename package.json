@@ -1,0 +1,12 @@
+{
+  "name": "closure-templats-for-javascript-latest",
+  "version": "2015-10-25",
+  "author": "LarsHassler <lars@explosive-marketing.de>",
+  "description": "closure temples for javascript as npm module",
+  "contributors": [
+    {
+      "name": "Lars Haßler",
+      "email": "lars.hassler@explosive-marketing.de"
+    }
+  ]
+}
